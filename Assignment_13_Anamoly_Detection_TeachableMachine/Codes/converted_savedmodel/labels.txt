@@ -1,0 +1,7 @@
+0 Train Good
+1 Crack
+2 Glue Strip
+3 Test Good
+4 Gray Stroke
+5 Oil
+6 Rough
